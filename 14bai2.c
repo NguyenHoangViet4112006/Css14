@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 int main(){
-    char real[] = "qwerasdf";
+    char kyTu[] = "qwerasdf";
     int i = 0;
     printf("cac ky tu trong chuoi ");
-    while (real[i] != '\0') {
-        printf("%c ", real[i]);
+    while (kyTu[i] != '\0') {
+        printf("%c ", kyTu[i]);
         i++;
     }
 
